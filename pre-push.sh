@@ -1,5 +1,5 @@
-;; note: this is actually copied from a colleague :) 
-;; will stash local changes, run tests, unstash changes
+# note: this is actually copied from a colleague :) 
+# will stash local changes, run tests, unstash changes
 
 #!/usr/bin/env bash
 
